@@ -6,5 +6,12 @@ Abuse AIS's OTP service with Nodejs
 AISAbuse.js <PhoneNum (66xxxxxxxxx)> <Amount>
 ```
 
+# Termux? YES!
+```
+git clone https://github.com/orzki/AISAbuse
+cd AISAbuse
+./install.sh
+```
+
 # Require
 - superagent
