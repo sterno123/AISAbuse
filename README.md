@@ -12,6 +12,7 @@ apt-get update
 pkg install git
 git clone https://github.com/orzki/AISAbuse
 cd AISAbuse
+chmod 777 install.sh
 ./install.sh
 ```
 
