@@ -3,7 +3,7 @@ Abuse AIS's OTP service with Nodejs
 
 # Usage
 ```
-AISAbuse.js <PhoneNum (66xxxxxxxxx)> <Amount>
+node AISAbuse.js <PhoneNum (66xxxxxxxxx)> <Amount>
 ```
 
 # Termux? YES!
